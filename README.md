@@ -284,7 +284,8 @@ If the video exists in repository root:
 
 ## 🎥 Demo Video
 
-[Watch Demo](./Token_system_bread_board.mp4)
+[Watch Demo_On_breadboard](./Token_system_bread_board.mp4)
+[Watch Demo_On_PCB](./Token_system_bread_PCB_Enclosure.mp4)
 
 
 ---
